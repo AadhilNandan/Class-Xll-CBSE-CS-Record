@@ -1,0 +1,3 @@
+Python is a high-level programming language designed for readability.
+It supports structured, object-oriented, and functional programming styles.
+Python's vast libraries make it ideal for diverse applications globally.
