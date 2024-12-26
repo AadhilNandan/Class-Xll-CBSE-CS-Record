@@ -5,12 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5c34d60-e60f-4848-8362-110f5a992896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CS Xll Program (10).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS Xll Program (11).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS Xll Program (8).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS Xll Program (9).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (1).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (10).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (11).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (12).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (13).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (14).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (15).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (3).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (4).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (5).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (6).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (7).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (8).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS Xll CBSE Programs  (9).py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +49,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.CS Xll Program (10).executor": "Run",
-    "Python.CS Xll Program (11).executor": "Run",
-    "Python.CS Xll Program (8).executor": "Run",
-    "Python.CS Xll Program (9).executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/user/PycharmProjects/Student Management Program"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.CS Xll Program (10).executor&quot;: &quot;Run&quot;,
+    &quot;Python.CS Xll Program (11).executor&quot;: &quot;Run&quot;,
+    &quot;Python.CS Xll Program (12).executor&quot;: &quot;Run&quot;,
+    &quot;Python.CS Xll Program (13).executor&quot;: &quot;Run&quot;,
+    &quot;Python.CS Xll Program (14).executor&quot;: &quot;Run&quot;,
+    &quot;Python.CS Xll Program (15).executor&quot;: &quot;Run&quot;,
+    &quot;Python.CS Xll Program (8).executor&quot;: &quot;Run&quot;,
+    &quot;Python.CS Xll Program (9).executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/CS Record Xll&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="CS Xll Program (14)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS Record Xll" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS Xll Program (14).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CS Xll Program (14)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
